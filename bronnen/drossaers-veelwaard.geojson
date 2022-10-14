@@ -1,1 +1,1 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"legenda-item":"108","naam":"De Hofstad"},"geometry":{"type":"MultiLineString","coordinates":[[[5.31542989,51.68950751],[5.31412665,51.69007007]]]}}]}
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"legenda-item":"108","naam":"De Hofstad"},"geometry":{"type":"LineString","coordinates":[[[5.31542989,51.68950751],[5.31412665,51.69007007]]]}}]}
