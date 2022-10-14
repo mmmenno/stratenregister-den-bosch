@@ -2,7 +2,7 @@
 
 ## Kaart Drossaers / Veelwaard 1840-1860
 
-De straatnamen zoals die voorkomen in de legenda van de kaart zijn gebruikt voor de [straatnamenlijst](schrijfwijzes/straatnamenlijst.csv).
+De [straatnamen](straatnamen-drossaersveelwaard.csv) zoals die voorkomen in de legenda van de kaart zijn gebruikt voor de [straatnamenlijst](schrijfwijzes/straatnamenlijst.csv).
 
 De straten zijn ingetekend, zodat de lijngeometrieën (van straten die zijn verdwenen of van loop zijn veranderd) later gebruikt kunnen worden. De geometrieën zijn te vinden in het bestand [drossaersveelwaard.geojson](drossaersveelwaard.geojson)
 
