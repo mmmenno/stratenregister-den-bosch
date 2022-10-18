@@ -3,6 +3,8 @@
 Alle queries (tenzij anders aangegeven) kunnen op de [Wikidata Query Service](https://query.wikidata.org/) worden gedraaid.
 
 
+### alle straten met coördinaten, link naar Bossche Encyclopedie en link naar BAG indien aanwezig
+
 ```
 SELECT ?item ?itemLabel ?bagid ?baglink ?belink ?coords WHERE {
   ?item wdt:P31 wd:Q79007 . 
