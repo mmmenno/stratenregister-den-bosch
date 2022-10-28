@@ -16,7 +16,7 @@ De gebruikte kaart is afkomstig van [https://proxy.archieven.nl/235/896A40005F1A
 
 - 1840-1860?? [Hagens, J., Platte Grond der stad 's Hertogenbosch](https://proxy.archieven.nl/235/7EA09D2C077D41B686327223B481EBC1), met stratenregister en wijkindeling (waarvan de kleuren behoorlijk vervaagd zijn)
 
-- c. 1890 [Hagens, J., Platte Grond der stad 's Hertogenbosch](https://proxy.archieven.nl/235/7EA09D2C077D41B686327223B481EBC1), lijkt identiek aan bovenstaande, maar de wijkindeling is hier nog met frisse kleuren aangegeven. Wel zo'n lage resolutie dat het stratenregister niet leesbaar is.
+- c. 1890 [Hagens, J., Platte Grond der stad 's Hertogenbosch](https://hdl.handle.net/21.12121/91815542), lijkt identiek aan bovenstaande, maar de wijkindeling is hier nog met frisse kleuren aangegeven. Wel zo'n lage resolutie dat het stratenregister niet leesbaar is.
 
 - c. 1900 [Stokvis & Zn, Kaart van 's-Hertogenbosch](https://proxy.archieven.nl/235/39C2447C9EDE41FCA1CC530BCD38823D)
 
